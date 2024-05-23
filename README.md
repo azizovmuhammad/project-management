@@ -2,6 +2,9 @@
 
 **Description**: This project management application helps teams organize, track, and manage projects, tasks, and related activities. It simplifies collaboration and enhances productivity with intuitive features.
 
+![project-management-system](https://github.com/azizovmuhammad/project-management/assets/94451902/2df10eba-b2ee-4200-85aa-51f110a4767c)
+
+
 ---
 
 ## Features
