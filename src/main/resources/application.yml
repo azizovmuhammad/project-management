@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: project-management-system
+  datasource:
+    url: jdbc:postgresql://localhost:5432/productdb
+    username: postgres
+    password: 100604
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
